@@ -1,3 +1,5 @@
+package edu.breno.metodos;
+
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
